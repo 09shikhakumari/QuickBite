@@ -1,1 +1,1 @@
-# QuickBite
+# Burger Hut
